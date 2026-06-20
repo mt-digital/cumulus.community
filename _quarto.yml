@@ -1,0 +1,42 @@
+##
+# Defines site data and metadata
+#
+# Author: Matt Turner <matt@mat.phd>
+# Date: 15 June 2026
+#
+
+
+website:
+
+  title: "Cumulus.Network"
+
+  navbar:
+    background: "#55ddff"
+    foreground: "#101010"
+
+  favicon: favicon.png
+
+  search: false
+
+  open-graph:
+    image: images/jill.jpg
+  twitter-card:
+    image: images/jill.jpg
+    card-style: summary_large_image
+
+format:
+
+  html:
+
+    search: false
+    theme:
+      - cosmo
+      - brand
+      - styles.scss
+
+    # css: styles.scss
+    toc: false
+
+
+project:
+  type: website

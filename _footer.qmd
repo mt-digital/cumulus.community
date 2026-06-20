@@ -1,0 +1,14 @@
+::: {style="text-align: center; font-size: 0.70rem;"}
+
+![**The Cumulus Network: Cooperative Efficiency, Freely Chosen, for the
+Betterment of All**](images/cumulus-network-lettermark.svg){width=200px}
+
+<br>
+
+{{< include _epigraph.qmd >}}
+
+<br>
+
+Ⓒ Matt Turner, 19 June 2026
+
+:::

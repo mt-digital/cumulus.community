@@ -1,0 +1,12 @@
+::: {style="font-size: 0.60rem; font-family: 'Source Serif Pro';"}
+
+<i><span id=kog-epigraph style="color: black; font-size: 0.575rem;">$^{20}$</span><span
+style="color: black;">And when he was demanded of the Pharisees, when the kingdom of God should
+come, he answered them and said, </span><span style="color: red;">The kingdom of
+God cometh not with observation. <span style="color: black; font-size:
+0.65rem;">$^{21}$</span><span style="color: red;">Neither shall they say, "Lo
+here!" or, "Lo there!" for, behold, the kingdom of God is within you.</span></i>
+
+[Luke 17, King James Version](https://biblehub.com/kjv/luke/17.htm)
+
+:::
