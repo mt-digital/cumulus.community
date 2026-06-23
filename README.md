@@ -1,4 +1,4 @@
-# cumulus.network
+# cumulus.community
 
 ## manifesting practical dialectic
 
