@@ -14,14 +14,14 @@ website:
     background: "#55ddff"
     foreground: "#101010"
 
-  favicon: favicon.png
+  favicon: images/cumulus-network-lettermark.jpg
 
   search: false
 
   open-graph:
-    image: images/jill.jpg
+    image: images/cumulus-network-lettermark.jpg
   twitter-card:
-    image: images/jill.jpg
+    image: images/cumulus-network-lettermark.jpg
     card-style: summary_large_image
 
 format:

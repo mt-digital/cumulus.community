@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   font-size: 1.3rem;
-  border-bottom: 1px solid #1010AA;
+  border-bottom: 2px solid #9080A0;
   padding-bottom: 3px;
 }
 
@@ -35,7 +35,7 @@ h4 {
 }
 
 span.role {
-  color: grey;
+  color: #9080A0;
   padding-left: 12px;
   font-style: italic;
 }
@@ -78,7 +78,12 @@ main#quarto-document-content {
 }
 
 // Kingdom of God is within you epigraph
-span#kog-epigraph {
+span.kog-epigraph-verse {
   color: black;
-  font-size: 0.625rem;
+  font-size: 0.725rem;
+}
+
+span#kog-epigraph {
+  font-size: 0.8rem;
+  font-family: 'Source Serif Pro';
 }
