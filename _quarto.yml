@@ -8,20 +8,20 @@
 
 website:
 
-  title: "Cumulus.Network"
+  title: "Cumulus.Community"
 
   navbar:
     background: "#55ddff"
     foreground: "#101010"
 
-  favicon: images/cumulus-network-lettermark.jpg
+  favicon: images/cumulus-community-lettermark.png
 
   search: false
 
   open-graph:
-    image: images/cumulus-network-lettermark.jpg
+    image: images/cumulus-community-lettermark.jpg
   twitter-card:
-    image: images/cumulus-network-lettermark.jpg
+    image: images/cumulus-community-lettermark.jpg
     card-style: summary_large_image
 
 format:
