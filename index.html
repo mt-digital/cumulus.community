@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2c709edfde29ef59d42d60b5a1ef0b97.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-beb262635e6342c1eaa1453d76129a6f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -87,10 +87,10 @@ window.Quarto = {
 </script>
 
 <meta property="og:title" content="Cumulus.Community">
-<meta property="og:image" content="images/cumulus-community-lettermark.jpg">
+<meta property="og:image" content="https://cumulus.community/images/cumulus-community-lettermark.jpg">
 <meta property="og:site_name" content="Cumulus.Community">
 <meta name="twitter:title" content="Cumulus.Community">
-<meta name="twitter:image" content="images/cumulus-community-lettermark.jpg">
+<meta name="twitter:image" content="https://cumulus.community/images/cumulus-community-lettermark.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -265,7 +265,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/cumulus\.community");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
