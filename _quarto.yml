@@ -11,8 +11,9 @@ website:
   title: "Cumulus.Community"
 
   navbar:
-    background: "#55ddff"
-    foreground: "#101010"
+    # background: "#55ddff"
+    background: "#9080A0"
+    foreground: "#FFF"
 
   favicon: images/cumulus-community-lettermark.png
 
