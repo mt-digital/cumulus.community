@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cumulus.community/index.html</loc>
-    <lastmod>2026-06-23T22:23:00.788Z</lastmod>
+    <lastmod>2026-07-01T20:08:39.649Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cumulus.community/minutes/1.html</loc>
+    <lastmod>2026-07-01T18:01:58.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cumulus.community/governance.html</loc>
+    <lastmod>2026-07-01T18:52:14.705Z</lastmod>
   </url>
 </urlset>
