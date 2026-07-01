@@ -11,9 +11,14 @@ website:
   title: "Cumulus.Community"
 
   navbar:
-    # background: "#55ddff"
     background: "#9080A0"
-    foreground: "#FFF"
+    foreground: "#DCF"
+
+    right:
+      - href: index.qmd
+        text: Home
+      - href: governance.qmd
+        text: Governance
 
   favicon: images/cumulus-community-lettermark.png
 
@@ -35,7 +40,6 @@ format:
       - brand
       - styles.scss
 
-    # css: styles.scss
     toc: false
 
 

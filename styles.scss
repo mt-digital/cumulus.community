@@ -34,10 +34,11 @@ h4 {
   color: 222;
 }
 
-span.role {
+span.name {
   color: #9080A0;
   padding-left: 12px;
   font-style: italic;
+  font-size: 1.05rem;
 }
 
 
@@ -67,6 +68,12 @@ main#quarto-document-content {
     height: 100%;
     // object-fit: cover;
   }
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .navbar,

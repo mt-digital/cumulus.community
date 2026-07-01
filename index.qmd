@@ -9,87 +9,36 @@ modern polycrisis: one for profit, the other not.**
    computational and organizational science services company dedicated to
    realizing lucrative yet sustainable business models.
 2. Our nonprofit, the [_Generation of Participation in Democracy
-   (GPD)_](https://gpdamericas.org), is a California Public Benefit Corporation
-in compliance with California Department of Justice registration. We are
-awaiting the GPD's 501(c)(3) tax-exempt status determination; **EIN: 41-4992916**.
-    - The GPD's first _Flagship Organization_ is the [_Instituto
-      Dourados_](https://institutodourados.org). The _Instituto's_ mission is to
-      provide computational epidemiological tools for public health planning
-      that will be owned, maintained, and further developed by Indigenous
-      communities in the _Grande Dourados_ region in Mato Grosso do Sul, Brazil,
-      and beyond.
+   (GPD)_](https://gpdamericas.org) is registered with the Internal Revenue
+   Service (IRS) as a **501(c)(3) tax-exempt public charity** and a California
+   Public Benefit Corporation meeting all associated [compliance
+   requirements](https://www.oag.ca.gov/system/files/media/Guide%20for%20Charities.pdf)---see
+   also [CalNonprofits _Nonprofit Compliance
+   Checklist_](https://calnonprofits.org/wp-content/uploads/2025/02/CA-Compliance-Checklist-Revised-02-2024.pdf).
+  - **IRS Employer Identification Number (EIN): 41-4992916**
+  - The GPD's first _Flagship Organization_ is the [_Instituto
+    Dourados_](https://institutodourados.org). The _Instituto's_ mission is to
+    provide computational epidemiological tools for public health planning that
+    will be owned, maintained, and further developed by Indigenous communities
+    in the _Grande Dourados_ region in Mato Grosso do Sul, Brazil, and beyond.
 
 
 ![](images/matty-linkedin-banner.png){fig-align="center" width=525px
 style="margin-top: 15px; margin-bottom: 15px;"}
 
-## Board of Directors
+## Governance
 
-Our directors serve identical roles at both GPD and STS. This is temporary
-scaffolding as we continue to identify and fill key roles.
+The Cumulus Community is guided by a shared governance model designed to
+promote transparency, continuity, and responsible stewardship across our
+affiliated organizations and projects.
 
-The current board will remain as Community leadership for the foreseeable future,
-but specific roles within organizations will be adjusted as necessary for
-success.
-
-One of the key goals for Q3 and Q4 of 2026 is to establish a policy for a
-directional "air gap" so that money from the nonprofit (GPD) never flows to the
-for profit (STS). Consolidated leadership will oversee this project to
-completion.
-
-
-### Matthew A. Turner, PhD <span class=role>President</span>
-
-![](images/MatthewTurner.png){.member-photo}
-
-Dr. Matt Turner is the Founder and President of the Generation of Participation in
-Democracy and SubtleTea Solutions. His mission is to
-help his and his colleagues' innovative basic research live up to its full
-potential for lasting, positive real world impact, simultaneously creating value
-for customers and investors alike.
-
-In a typical day, Dr. Turner might work on new coursework and writing, publishing
-new content to be included in a forthcoming book, _Quantitative Social Science
-for Sustainable Futures_. Or he is creating scientific hardware and software,
-publishing websites, or organizing and executing all business details across
-both organizations. He is currently the sole responsible party for all tax and
-compliance issues at both GPD and STS.
-
-[Dr. Turner's website](https://mat.phd)
-
-### Izabela Mauricio de Rezende, PhD <span class=role>Secretary</span>
-
-![](images/IzabelaRezende.png){.member-photo}
-
-Dr. Izabela Rezende is the Founder and Director of Instituto Dourados, the
-inaugural Flagship Institute of the GPD.
-
-Dr. Rezende will ensure that we deliver on our promise to serve the Indigenous
-peoples of Dourados, and public health policy improvement in general. She will
-further ensure SubtleTea Solutions contributes to the greater good while
-maintaining its focus making excellent products for our customers, and
-making sustainability lucrative for investors.
-
-[Dr. Rezende on LinkedIn](https://www.linkedin.com/in/izabela-rezende/)
-
-### Joshua Rueckheim, MBA <span class=role>Treasurer</span>
-
-![](images/JoshuaRueckheim.png){.member-photo}
-
-Joshua Rueckheim oversees book keeping, develops controls and
-ensures enforcement, and assists with structuring and executing
-forecasts and other business processes. Mr. Rueckheim
-applies his decades of expertise in business management to ensure the
-financial integrity of the Cumulus Community's organizations.
-
-
-Mr. Rueckheim is currently Finance Director for the Philadelphia Hospitality
-Investment Levy and for [Alta Management
-Services](https://www.altamsi.com/our-team/). Before joining Alta, Mr. Rueckheim
-worked for Mariott International for 10 years in various finance and
-accounting roles.
-
-[Mr. Rueckheim on LinkedIn](https://www.linkedin.com/in/joshua-rueckheim-96241226/)
+Our [Governance](governance.qmd) page introduces the [Board of
+Directors](governance.qmd#board-of-directors), explains our current governance
+structure, and provides access to [governance
+documents](governance.qmd#governance-documents-archive): meeting minutes and
+other institutional records. We believe that durable institutions are built
+through clear responsibilities, documented decisions, and an ongoing commitment
+to openness and thoughtful evolution.
 
 
 ## Strategic Organization and Communication {style="margin-top: 25px;"}
@@ -117,6 +66,11 @@ coordination policies.
 
 ---
 
+<br>
+
+![](images/cumulus-community-lettermark.svg){width=150 .centered}
+<!-- style="margin-left: auto; -->
+<!-- margin-right: auto; display: block;"} -->
 
 <br>
 
