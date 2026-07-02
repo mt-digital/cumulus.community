@@ -34,11 +34,18 @@ h4 {
   color: 222;
 }
 
+// Stylized name of each executive/board member
 span.name {
   color: #9080A0;
   padding-left: 12px;
   font-style: italic;
   font-size: 1.05rem;
+}
+
+span.listing-date {
+
+  display: block;
+  width: 60px;
 }
 
 
@@ -48,6 +55,10 @@ main#quarto-document-content {
   font-family: "Inter";
 
   text-align: justify;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 
@@ -94,3 +105,26 @@ span#kog-epigraph {
   font-size: 0.8rem;
   font-family: 'Source Serif Pro';
 }
+
+
+//
+// html body.nav-fixed.fullcontent.quarto-light div#quarto-content.quarto-container.page-columns.page-rows-contents.page-layout-article.page-navbar
+main#quarto-document-content.content div#listing-listing.quarto-listing.quarto-listing-container-table table.quarto-listing-table.table tbody.list tr td {
+
+  span.listing-date {
+    display: block;
+    width: 100px;
+  }
+
+  a.title.listing-title {
+    display: block;
+    width: 500px;
+  }
+}
+
+// Only display the date and title columns in governance document archive
+.quarto-listing-table th:nth-child(3),
+.quarto-listing-table td:nth-child(3) {
+  display: none;
+}
+

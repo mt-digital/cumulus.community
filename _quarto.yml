@@ -6,6 +6,7 @@
 #
 
 
+
 website:
 
   title: "Cumulus.Community"
@@ -44,4 +45,5 @@ format:
 
 
 project:
+
   type: website

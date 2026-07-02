@@ -26,6 +26,7 @@ modern polycrisis: one for profit, the other not.**
 ![](images/matty-linkedin-banner.png){fig-align="center" width=525px
 style="margin-top: 15px; margin-bottom: 15px;"}
 
+
 ## Governance
 
 The Cumulus Community is guided by a shared governance model designed to
