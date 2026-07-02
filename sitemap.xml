@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cumulus.community/index.html</loc>
-    <lastmod>2026-07-01T20:08:39.649Z</lastmod>
+    <loc>https://cumulus.community/governance.html</loc>
+    <lastmod>2026-07-02T04:25:23.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cumulus.community/minutes/2.html</loc>
+    <lastmod>2026-07-02T04:23:42.397Z</lastmod>
   </url>
   <url>
     <loc>https://cumulus.community/minutes/1.html</loc>
-    <lastmod>2026-07-01T18:01:58.610Z</lastmod>
+    <lastmod>2026-07-02T04:09:20.670Z</lastmod>
   </url>
   <url>
-    <loc>https://cumulus.community/governance.html</loc>
-    <lastmod>2026-07-01T18:52:14.705Z</lastmod>
+    <loc>https://cumulus.community/index.html</loc>
+    <lastmod>2026-07-01T22:26:17.363Z</lastmod>
   </url>
 </urlset>
